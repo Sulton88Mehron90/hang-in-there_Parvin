@@ -19,8 +19,8 @@ We created an app that allows users to create their own posters, randomize poste
 The project took roughly 10 hours to complete for a mod-1 repeater and a second week mod-1.
 
 ### Contributors:
-Parvin Sattorova: https://github.com/Sulton88Mehron90
-Trey Marshall: https://github.com/tdmburr
+[Parvin Sattorova]: https://github.com/Sulton88Mehron90
+[Trey Marshall]: https://github.com/tdmburr
 
 ### Learning Goals:
 Write clean, DRY JavaScript
