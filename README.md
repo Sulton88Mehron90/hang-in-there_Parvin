@@ -12,7 +12,7 @@ We created an app that allows users to create their own posters, randomize poste
 
 ### Preview of App:
 
-file:///var/folders/ct/9rsswfpn4tx_x28k12w_77sw0000gn/T/TemporaryItems/NSIRD_screencaptureui_bWevnm/Screen%20Shot%202023-02-10%20at%207.04.31%20PM.png
+<img width="521" alt="Screen Shot 2023-02-02 at 4 37 45 PM" src="https://user-images.githubusercontent.com/109426263/218228963-236da0b6-8758-4751-b66c-8e8daa301bd4.png">
 
 
 ### Context:
