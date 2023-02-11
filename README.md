@@ -12,6 +12,8 @@ We created an app that allows users to create their own posters, randomize poste
 
 ### Preview of App:
 
+file:///var/folders/ct/9rsswfpn4tx_x28k12w_77sw0000gn/T/TemporaryItems/NSIRD_screencaptureui_bWevnm/Screen%20Shot%202023-02-10%20at%207.04.31%20PM.png
+
 
 ### Context:
 The project took roughly 10 hours to complete for a mod-1 repeater and a second week mod-1.
