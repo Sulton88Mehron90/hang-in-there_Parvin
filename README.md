@@ -11,8 +11,8 @@ We created an app that allows users to create their own posters, randomize poste
 5. Add all project partners and your assigned instructor as collaborators on the repository
 
 ### Preview of App:
+<img width="1047" alt="Screen Shot 2023-02-10 at 7 08 12 PM" src="https://user-images.githubusercontent.com/109426263/218229059-9c8504ac-9f0c-47d1-b97b-ac78a0a637bf.png">
 
-<img width="521" alt="Screen Shot 2023-02-02 at 4 37 45 PM" src="https://user-images.githubusercontent.com/109426263/218228963-236da0b6-8758-4751-b66c-8e8daa301bd4.png">
 
 
 ### Context:
