@@ -4,6 +4,9 @@
 We created an app that allows users to create their own posters, randomize posters, and delete them on a double click. This allows a user to create their own inspiration.
 
 ### Installation Instructions:
+##### Run via web:
+[Click Here to Launch](https://sulton88mehron90.github.io/hang-in-there_Parvin/)
+##### Run local:
 1.fork this repository
 2. Clone down your new, forked repo
 3. cd into the repository
